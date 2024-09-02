@@ -13,7 +13,7 @@ header ul li{
 }
 
 body{
-    background-image: url("/imagens/imagem_logo/fundo.png");
+    background-image: url("/Imagens/imagem_logo/fundo.png");
     background-size: cover;
     background-attachment: fixed;
 }
