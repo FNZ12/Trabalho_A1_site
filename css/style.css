@@ -1,0 +1,144 @@
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: #D8bfd8;
+    width:100% ;
+}
+header ul li{
+    display:inline-block;
+    padding: 20px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+body{
+    background-image: url("/imagens/imagem_logo/fundo.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+header ul{
+    display: inline-block;
+}
+#Sobre{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+form{
+    text-align: center;
+    background-color:black ;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+}
+input{
+    border-radius: 50px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+}
+label{
+    margin-right: 10px;
+    margin-left: 10px ;
+}
+form button{
+    border-radius: 50px;
+    width: 10%;
+    background-color: plum;
+}
+#Contatos{
+    text-align: center;
+}
+.btn_contato{
+    border-radius: 50px;
+    width: 50%;
+    height: 50px;
+    background-color: #d8bfd8;
+    font-size: 18px;
+    font-weight: bold;
+}
+#Funcionaria{
+    display: inline-table;
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    }
+#Funcionarias img{
+    width: 30%;
+    display: inline-table;
+}
+#Funcionarias{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#Serviços{
+    text-align: center; 
+    padding-left: 10%;
+    padding-right: 10%;
+    font-weight: bold;
+}
+#Serviço{
+    text-align: center;
+    display: inline-table;
+    width: 30%;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    transition: all 0.5s ease;
+    color: black;
+}
+
+#Serviço:hover{
+    background-color: #d8bfd8;
+}
+
+#Serviço img{
+    width: 70%;
+    border-radius: 50px;
+}
+#Serviço h1{
+    font-size: 30px;
+}
+
+#Avaliacoes{
+    padding: 20px;
+    text-align: center;
+    color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.container_avaliacoes{
+    align-items: center;
+}
+
+.depoimento{
+    display: inline-table;
+    padding: 30px;
+}
+
+.depoimento img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 2px solid white;
+}
+
+.depoimento p{
+    width: 200px;
+}
+
+footer{
+    text-align: center;
+    background-color: #d8bfd8;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+footer img{
+    width: 10%;
+}
